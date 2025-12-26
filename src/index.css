@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  --pri-bg: #111;
+  --pri-text: #dcdcdc;
+  --sec-text: #d0caca99;
+  --sec-bg: #aeaeae45;
+  --btn-pri: #ec7058;
+  --tri-bg: #272626;
+}
