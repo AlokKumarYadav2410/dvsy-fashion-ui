@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div className='bg-(--pri-bg) text-(--pri-text) w-full min-h-screen flex flex-col gap-4 p-4'>
       <Navbar />
-
+      <Hero />
     </div>
   )
 }
