@@ -1,10 +1,14 @@
 @import "tailwindcss";
 
 :root {
-  --pri-bg: #111;
+  --pri-bg: #010101;
   --pri-text: #dcdcdc;
   --sec-text: #d0caca99;
   --sec-bg: #aeaeae45;
   --btn-pri: #ec7058;
   --tri-bg: #272626;
+}
+
+body {
+  font-family: 'Cherry Cream Soda', system-ui;
 }

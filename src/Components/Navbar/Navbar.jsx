@@ -4,8 +4,8 @@ import NavLinks from './NavLinks'
 const Navbar = () => {
   return (
     <div className='flex justify-between items-center'>
-      <div><h1 className='font-semibold text-2xl'>DVSY</h1></div>
-      <div className='hidden  sm:flex gap-2'>
+      <div><h1 className='font-bold text-3xl font-[syne]'>DVSY</h1></div>
+      <div className='hidden sm:flex gap-2 font-[syne]'>
         <NavLinks href="#">DESIGNERS</NavLinks>
         <NavLinks href="#">COLLABS</NavLinks>
         <NavLinks href="#">EVENTS</NavLinks>
