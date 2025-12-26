@@ -10,5 +10,6 @@
 }
 
 body {
+  background-color: var(--pri-bg);
   font-family: 'Cherry Cream Soda', system-ui;
 }
